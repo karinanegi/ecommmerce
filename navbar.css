@@ -1,0 +1,15 @@
+#search {
+  position: relative; 
+  left: 95px;
+  }
+  ul>li>a:hover{
+  color: blue;
+  }  
+
+  #navbar {
+    position: relative; 
+    left: 95px;
+    }
+    ul>li>a:hover{
+    color: blue;
+    } 
